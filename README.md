@@ -1,4 +1,4 @@
-# Ephermis Documentation HTML
+# Ephermis Documentation
 
 ***Documentation: Go to the "Wiki" tab above***
 ---
