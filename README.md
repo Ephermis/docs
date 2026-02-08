@@ -1,5 +1,7 @@
 # Ephermis Documentation 📚
 
+> ⚠️ Disclaimer: By using this service, you agree that the terms in the [Liability Clause](https://github.com/Ephermis/docs/wiki/LIABILITY-CLAUSE) apply.
+
 ***📚 Documentation: Go to the "[Wiki](https://github.com/Ephermis/docs/wiki)" tab above*** 
 ---
 This repository contains the Wiki for **Ephermis documentation**, designed to organise and present internal references and notes. It serves as a central hub for tracking project details, development progress, and related discussions.  
